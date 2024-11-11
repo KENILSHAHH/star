@@ -33,4 +33,7 @@
 - The governance system mirrors real-world DAOs, requiring players to persuade or strategize with other community members to vote in favor of decisions that benefit their faction’s direction.
 
 ## Contracts
-[Deployed Contract on BNB Testnet](https://testnet.bscscan.com/address/0x8E24bFB1D6D1F6BB0aFaaD2ba5c3359c1709831E)
+[Deployed Contract on Linea Testnet](https://sepolia.lineascan.build/address/0xb591d3D7e0460C3366e8D49709a644e6E8d04E22)
+
+[Deployed Contract on Rootstock ( https://explorer.testnet.rootstock.io/address/0xf0a2072c4fd307883982c93c4a6efe96d712a350 )]
+
