@@ -35,5 +35,5 @@
 ## Contracts
 [Deployed Contract on Linea Testnet](https://sepolia.lineascan.build/address/0xb591d3D7e0460C3366e8D49709a644e6E8d04E22)
 
-[Deployed Contract on Rootstock ( https://explorer.testnet.rootstock.io/address/0xf0a2072c4fd307883982c93c4a6efe96d712a350 )]
+[Deployed Contract on Rootstock] ( https://explorer.testnet.rootstock.io/address/0xf0a2072c4fd307883982c93c4a6efe96d712a350 )
 
