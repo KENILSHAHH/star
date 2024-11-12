@@ -37,3 +37,5 @@
 
 [Deployed Contract on Rootstock](https://explorer.testnet.rootstock.io/address/0xf0a2072c4fd307883982c93c4a6efe96d712a350)
 
+[Deployed on BOB testnet](https://bob-sepolia.explorer.gobob.xyz/address/0xf0A2072c4FD307883982c93C4a6EfE96D712A350)
+
