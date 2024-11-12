@@ -6,7 +6,7 @@
 
 ## Video Demo 
 
-[https://www.loom.com/share/0f5b891d7990494c8853bbc2057b0f65]
+https://www.loom.com/share/0f5b891d7990494c8853bbc2057b0f65
 
 ## Why Silent Wars?
 
